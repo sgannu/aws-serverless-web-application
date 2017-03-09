@@ -1,0 +1,20 @@
+{
+  "name": "aws-serverless",
+  "description": "AWS Serverless application",
+  "author": "Srinivas Gannu",
+  "contributors": [
+    {
+      "name": "Srinivas Gannu",
+      "email": "srinivas.gannu@gmail.com"
+    }
+  ],
+  "license": "https://github.com/sgannu",
+  "dependencies": {
+    "types": "^0.1.1",
+    "typescript": "^2.0.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tsc": "^1.3.0"
+  }
+}

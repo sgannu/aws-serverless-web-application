@@ -1,0 +1,6 @@
+node_modules
+typings
+.tscache
+*.log
+**/.DS_Store
+
