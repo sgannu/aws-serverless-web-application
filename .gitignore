@@ -3,4 +3,5 @@ typings
 .tscache
 *.log
 **/.DS_Store
-
+app/js
+aws/aws.properties
