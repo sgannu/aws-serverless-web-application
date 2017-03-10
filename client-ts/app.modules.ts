@@ -4,9 +4,9 @@ import { BrowserModule }  from '@angular/platform-browser';
 import { FormsModule }    from '@angular/forms';
 import { HttpModule }     from '@angular/http';
 
-
+import { AppComponent }         from './app.component';
 import { LambdaService }           from './components/lambda.service';
-import { ListComponents }     from './components/list.component';
+import { ListComponent }     from './components/list.component';
 
 @NgModule({
 	imports: [
